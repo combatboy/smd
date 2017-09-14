@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.zywx.wbpalmstar.plugin.uexappmarket.view.DragGridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/grid"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="2dp"
+    android:layout_marginRight="2dp"
+    android:cacheColorHint="@android:color/transparent"
+    android:columnWidth="100dp"
+    android:drawSelectorOnTop="true"
+    android:fadingEdge="none"
+    android:horizontalSpacing="1dp"
+    android:listSelector="@android:color/transparent"
+    android:numColumns="4"
+    android:scrollbars="none"
+    android:verticalSpacing="1dp" >
+
+</org.zywx.wbpalmstar.plugin.uexappmarket.view.DragGridView>
