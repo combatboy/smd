@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <uexplugins>
-    <plugin uexName="uexAppCenterMgrEx" version="3.1.30" build="30">
-        <info>30.门户实现切换滑动效果</info>
-		<info>23.门户实现切换滑动效果</info>
+    <plugin uexName="uexAppCenterMgrEx" version="3.1.32" build="32">
+		<info>31.解决部分用户手机上崩溃问题</info>
+        <build>30.门户实现切换滑动效果</build>
+		<build>23.门户实现切换滑动效果</build>
         <build>23.修改门户界面</build>
 		<build>22.替换X5引擎</build>
 		<build>19.苏美达3列，改为4列。</build>
